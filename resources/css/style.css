@@ -25,10 +25,15 @@ p {
 }
 
 .header {
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
+}
+
+.menu {
+  font-size: 18px;
+  color: white;
 }
 
 .design {
   color: white;
-  background-image: url ("./resources/images/the-flatiron-building.png");
+  background-image: url ("resources/images/the-flatiron-building.png");
 }
