@@ -24,8 +24,8 @@ p {
   font-size: 14px;
 }
 
-.header {
-  background-image: url("resources/images/the-flatiron-building.png");
+div.design {
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 
 .menu {
@@ -33,7 +33,7 @@ p {
   color: white;
 }
 
-.design {
+p.menu {
+  font-size: 18px;
   color: white;
-  background-image: url ("resources/images/the-flatiron-building.png");
 }
